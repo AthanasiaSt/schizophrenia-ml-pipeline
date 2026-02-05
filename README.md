@@ -15,7 +15,6 @@ Read the readme.txt for more information
 - **Source:** GEO (GDS4523)
 - **Tissue:** Anterior prefrontal cortex (Brodmann Area 10, BA10)
 - **Samples:** 51 post-mortem brain samples
-- **Features:** ~54,675 gene expression measurements
 - **Task:** Binary classification (schizophrenia vs control)
 
 ---
